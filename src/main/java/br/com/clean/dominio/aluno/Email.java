@@ -1,7 +1,10 @@
-package br.com.clean;
+package br.com.clean.dominio.aluno;
+
+import lombok.Data;
 
 import java.util.Objects;
 
+@Data
 public class Email {
 
     private String endereco;

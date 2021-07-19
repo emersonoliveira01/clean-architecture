@@ -1,4 +1,4 @@
-package br.com.clean;
+package br.com.clean.dominio.aluno;
 
 import org.junit.jupiter.api.Test;
 
